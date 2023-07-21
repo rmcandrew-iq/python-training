@@ -10,6 +10,8 @@
     string1
 '''
 
+# my new change
+
 #accessing functions on strings
 name = "Ada lovelace"
 print(name.title())

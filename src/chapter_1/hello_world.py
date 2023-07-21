@@ -6,7 +6,7 @@ print("Hello Python world!")
 #python is the command to start the interpretter in a shell. it could also be python3 or py, whatever else you alias
 #use >>> python src/chapter_1/hello_world.py to run this program
 #or use >>> python3 src/chapter_1/hello_world.py
-
+   
 #install the python extension in vscode to get syntax highlighting and intellisense
 
 #more resources for the book is available at ehmatthes.github.io/pcc_3e
